@@ -100,7 +100,7 @@ Hash Maps         ████████████░░░  80%
 Two Pointers      ████████░░░░░░░  55%
 Binary Search     ██████░░░░░░░░░  40%
 ```
-> 📅 Consistent daily practice · 28+ LeetCode problems solved · Spaced repetition tracked
+> 📅 Consistent daily practice · 45+ LeetCode problems solved · Spaced repetition tracked
 
 ---
 
@@ -109,7 +109,7 @@ Binary Search     ██████░░░░░░░░░  40%
 <div align="center">
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:maheshbiradar103@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mahesh-biradar)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mahesh-biradar-a5a789167)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Mahesbiradar)
 
 **📍 Bangalore, Karnataka, India · Open to backend & full-stack SWE roles**
