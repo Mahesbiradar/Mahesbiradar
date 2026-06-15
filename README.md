@@ -19,7 +19,7 @@
 ```python
 mahesh = {
     "background"  : "Senior RF Engineer (8 years)",
-    "current"     : "Final-year ECE @ VTU, Bangalore",
+    "current"     : "Final-year ETE @ Dr.AIT, Bangalore",
     "transition"  : "Telecom → Full-Stack SWE",
     "stack"       : ["Django", "React", "PostgreSQL"],
     "targeting"   : "Product companies & GCCs in Bangalore",
