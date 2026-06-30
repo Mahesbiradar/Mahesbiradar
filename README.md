@@ -100,7 +100,7 @@ Hash Maps         ████████████░░░  80%
 Two Pointers      ████████░░░░░░░  55%
 Binary Search     ██████░░░░░░░░░  40%
 ```
-> 📅 Consistent daily practice · 45+ LeetCode problems solved · Spaced repetition tracked
+> 📅 Consistent daily practice · 68+ LeetCode problems solved · Spaced repetition tracked
 
 ---
 
